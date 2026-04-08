@@ -1,4 +1,4 @@
-# 📘 Projetos de Estruturas de Dados em Java
+# 📘 Projetos de Estruturas de Dados 
 
 Este repositório contém três projetos desenvolvidos em Java com o objetivo de demonstrar, na prática, o funcionamento de estruturas de dados e algoritmos fundamentais, além de comparar seu desempenho em diferentes cenários.
 
